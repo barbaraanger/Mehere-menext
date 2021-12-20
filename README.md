@@ -1,4 +1,4 @@
-# Classes-Manager
+# Me here, me next
 This app has its objective to help me undestand what's my progress on college.
 
 # Getting Started to run this app
